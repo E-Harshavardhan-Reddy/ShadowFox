@@ -3,7 +3,7 @@ Beginner-friendly documentation for Python visualization libraries (Matplotlib &
 
 # 🌟 Python Visualization Guide for Beginners
 
-> 📘 A clean and beginner-friendly documentation guide for two of the most powerful Python visualization libraries — **Matplotlib** and **Seaborn** — created as part of the **Shadow Fox Data Science Internship**.
+📘 A clean and beginner-friendly documentation guide for two of the most powerful Python visualization libraries  **Matplotlib** and **Seaborn**  created as part of the **Shadow Fox Data Science Internship**.
 
 ---
 
@@ -31,7 +31,7 @@ The goal of this documentation is to provide a simple, structured, and visually 
 
 ## 🧰 Technologies Used
 
-- ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+-  [Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 - `Matplotlib` – base plotting library  
 - `Seaborn` – high-level statistical visualization  
 - `Pandas` – for handling tabular data  
