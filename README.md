@@ -1,52 +1,71 @@
-SHADOWFOX-TASKS - Beginner-Friendly Visualization Documentation
-🌟 Python Visualization Guide for Beginners
-📘 A clean and beginner-friendly documentation guide for two of the most powerful Python visualization libraries — Matplotlib and Seaborn — created as part of the Shadow Fox Data Science Internship.
+# SHADOWFOX-TASKS-  
+Beginner-friendly documentation for Python visualization libraries (Matplotlib & Seaborn).
 
-📂 Project Structure
-File	Description
-Library_Overview.md	📖 Introduction to Matplotlib and Seaborn with practical use cases
-Graph_Types_with_Code.md	🧪 Side-by-side examples: line plots, bar charts, histograms, scatter plots, etc.
-Comparison.md	⚖️ Comparison of both libraries based on usability, aesthetics, flexibility
-Resources.md	🔗 Links to official documentation for deeper learning
+# 🌟 Python Visualization Guide for Beginners
 
-🎯 Project Objective
-This documentation is designed to help beginners get started with Python visualization using Matplotlib and Seaborn. It focuses on:
+> 📘 A clean and beginner-friendly documentation guide for two of the most powerful Python visualization libraries — **Matplotlib** and **Seaborn** — created as part of the **Shadow Fox Data Science Internship**.
 
-👶 Easy-to-understand explanations
+---
 
-✅ Ready-to-run code snippets
+## 📂 Project Structure
 
-🧠 Real-world visualization use cases
+| File | Description |
+|------|-------------|
+| `Library_Overview.md` | 📖 Introduction to Matplotlib and Seaborn with use cases |
+| `Graph_Types_with_Code.md` | 🧪 Side-by-side examples of line plots, bar charts, histograms, box plots, etc. |
+| `Comparison.md` | ⚖️ In-depth comparison of the two libraries: strengths, weaknesses, best use cases |
+| `Resources.md` | 🔗 Official documentation links for further learning |
 
-🛠️ Clear comparison to guide library selection
+---
 
-🧰 Technologies Used
-Python
+## 🎯 Project Objective
 
-Matplotlib – foundational plotting library
+The goal of this documentation is to provide a simple, structured, and visually appealing **learning guide** for anyone new to data visualization in Python. It focuses on:
 
-Seaborn – advanced statistical visualization
+- 👶 Beginner-level explanations  
+- ✅ Clean, working code examples  
+- 🧠 Practical use cases  
+- 🛠️ Comparison insights for choosing the right library
 
-Pandas – tabular data handling
+---
 
-NumPy – efficient numerical operations
+## 🧰 Technologies Used
 
-🖼️ Sample Plots
-📁 A plots/ folder with sample images of output graphs will be added soon for visual reference.
+- ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+- `Matplotlib` – base plotting library  
+- `Seaborn` – high-level statistical visualization  
+- `Pandas` – for handling tabular data  
+- `NumPy` – for numerical operations
 
-📘 Getting Started
-To try out the code examples, install the required libraries:
+---
 
-bash
-Copy
-Edit
+## 🖼️ Sample Plots (Coming Soon)
+
+> 🚀 Stay tuned for a "plots" folder with images of generated graphs.
+
+---
+
+## 📘 Getting Started
+
+To run the code examples:
+
+### 🔧 Install Required Libraries
+```bash
 pip install matplotlib seaborn pandas numpy
-✨ Acknowledgements
-Huge thanks to Shadow Fox for providing this opportunity to work on hands-on visualization tasks and create beginner-centric learning content during the Data Science Internship.
+```
 
-👤 Author
-Harshavardhan Reddy
-💼 Data Science Intern at Shadow Fox
-🌍 India
-🔗 LinkedIn
-📧 eharshavardhanr@gmail.com
+---
+
+## ✨ Acknowledgements
+
+Special thanks to **Shadow Fox** for providing the opportunity to work on real-world data visualization tasks and build hands-on, beginner-friendly content as part of their **Data Science Internship** program.
+
+---
+
+## 👤 Author
+
+**Harshavardhan Reddy**  
+💼 Data Science Intern at Shadow Fox  
+🌍 India  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-reddy-70a795241)  
+📧 eharshavardhanr@gmail.com  
